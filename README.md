@@ -25,11 +25,11 @@
 
 ## Διαγράμματα
 
-- [Loan Process](diagrams/loan_process.pdf)
-- [Return Copy](diagrams/return_copy.pdf)
-- [Borrower Management](diagrams/borrower_management.pdf)
-- [Book Management](diagrams/book_management.pdf)
-- [Late Return Notification](diagrams/late_return_notification.pdf)
+- [Loan Process](diagrams/Loan_Process.pdf)
+- [Return Copy](diagrams/Return_Copy.pdf)
+- [Borrower Management](diagrams/Borrower_Management.pdf)
+- [Book Management](diagrams/Book_Management.pdf)
+- [Late Return](diagrams/Late_Return.pdf)
 
 ---
 
