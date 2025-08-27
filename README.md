@@ -29,6 +29,7 @@
 - [Return Copy](diagrams/return_copy.pdf)
 - [Borrower Management](diagrams/borrower_management.pdf)
 - [Book Management](diagrams/book_management.pdf)
+- [Late Return Notification](diagrams/late_return_notification.pdf)
 
 ---
 
